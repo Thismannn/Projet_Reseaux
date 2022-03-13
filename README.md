@@ -25,7 +25,7 @@ laissés à la charge du programmeur. Quand le protocole utilisé est de la fami
 méthode phare pour réaliser cela se base sur l’architecture client/serveur. En fait, TCP/IP ne 
 fournit aucun mécanisme permettant l’exécution automatique d’un programme à l’arrivée d’un 
 message. Par conséquent, dans une communication point à point, l’une des applications prend 
-l’initiative de la communication (serveur) de la part de l’autre application (client).
+l’initiative de la communication (serveur) de la part de l’autre application (client).   
 Pour cela, la première phase du projet est de créer dans le langage C des sockets (avec la 
 libraires #include <sys/socket.h>): client et serveur. Dans la deuxième phase, on créera des 
 applications orientées connexion et sans connexion.
