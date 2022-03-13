@@ -1,6 +1,6 @@
 # Projet_Reseaux
-Ce projet a pour but de pouvoir programmer des applications basées sur le modèle client/serveur 
-utilisant **le protocole TCP/IP** qui est la brique de base d’Internet.
+**Ce projet a pour but de pouvoir programmer des applications basées sur le modèle client/serveur 
+utilisant le protocole TCP/IP qui est la brique de base d’Internet.**   
 Un protocole en réseaux est un ensemble de règles nécessaires pour la communication entre 
 deux machines (ordinateurs, objet en IoT, téléphone, etc.). Pour envoyer un message entre deux 
 machines, plusieurs fonctionnalités sont nécessaires et donc cet envoi est divisé en étapes 
